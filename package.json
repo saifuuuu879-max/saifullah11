@@ -1,0 +1,15 @@
+{
+  "name": "rss-brand-ai-bot",
+  "version": "2.1.0",
+  "description": "WhatsApp AI Bot by RSS BRAND with Anti-ViewOnce & Status Saver",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "axios": "^1.6.8",
+    "qrcode-terminal": "^0.12.0",
+    "pino": "^8.19.0"
+  }
+}
